@@ -1,6 +1,6 @@
 # Notes-app
 
-Notes app - Backend project in node js
+Notes app - Backend project using Node.js
 
 # Getting Started with node server App
 
